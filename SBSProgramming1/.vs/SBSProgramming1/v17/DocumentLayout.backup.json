@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBSProgramming1\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\25Programming-1st\\SBSProgramming1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E00ED645-D732-41F0-96BB-CE0FAF808752}|1_OT\\1_OT.vcxproj|C:\\Users\\Administrator\\Desktop\\SBSProgramming1\\1_OT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E00ED645-D732-41F0-96BB-CE0FAF808752}|1_OT\\1_OT.vcxproj|solutionrelative:1_OT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|C:\\Users\\Administrator\\Desktop\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|solutionrelative:2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBSProgramming1\\1_OT\\Main.cpp",
-              "RelativeDocumentMoniker": "1_OT\\Main.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBSProgramming1\\1_OT\\Main.cpp",
-              "RelativeToolTip": "1_OT\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-15T07:32:23.151Z",
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
+              "RelativeDocumentMoniker": "2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
+              "RelativeToolTip": "2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-16T08:41:35.859Z",
               "EditorCaption": ""
             }
           ]
