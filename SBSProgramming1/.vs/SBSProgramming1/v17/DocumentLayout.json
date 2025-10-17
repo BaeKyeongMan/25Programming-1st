@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E00ED645-D732-41F0-96BB-CE0FAF808752}|1_OT\\1_OT.vcxproj|C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\1_OT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E00ED645-D732-41F0-96BB-CE0FAF808752}|1_OT\\1_OT.vcxproj|solutionrelative:1_OT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|solutionrelative:2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ACB7F241-1644-4A98-8D6F-0B3E35516E73}|3_\uB514\uBC84\uAE45\\3_\uB514\uBC84\uAE45.vcxproj|C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\3_\uB514\uBC84\uAE45\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ACB7F241-1644-4A98-8D6F-0B3E35516E73}|3_\uB514\uBC84\uAE45\\3_\uB514\uBC84\uAE45.vcxproj|solutionrelative:3_\uB514\uBC84\uAE45\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{97F0B188-0092-45A9-A20D-22FAD06E3E61}|2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218.vcxproj|solutionrelative:2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,27 +37,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\1_OT\\Main.cpp",
-              "RelativeDocumentMoniker": "1_OT\\Main.cpp",
-              "ToolTip": "C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\1_OT\\Main.cpp",
-              "RelativeToolTip": "1_OT\\Main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T12:47:01.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
               "RelativeDocumentMoniker": "2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
               "ToolTip": "C:\\Users\\\uBC30\uACBD\uB9CC\\Documents\\GitHub\\25Programming-1st\\SBSProgramming1\\2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
               "RelativeToolTip": "2_\uC790\uB8CC\uD615\uACFC \uBCC0\uC218\\Main.c",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAHIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-17T07:47:06.689Z"
+              "WhenOpened": "2025-10-17T07:47:06.689Z",
+              "EditorCaption": ""
             }
           ]
         }
