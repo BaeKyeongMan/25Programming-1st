@@ -54,15 +54,22 @@ int main()
 	printf("체력        | %d (+%f) \n", GarenFirstLevelHP, GarenGrowthHP); // % = 문자 지정)
 	printf("현재 체력   | %f \n", GarenFirstLevelHP + (level - 1) * GarenGrowthHP);
 	printf("마나        | 0 \n");
-	printf("공격력      | 69 (+4) \n");
-	printf("방어력      | 38 (+4) \n");
-	printf("마법 저항력 | 32 (+1) \n");
+	printf("공격력      | %d (+%d) \n", GarenFirstPower, GarenGrowPower);
+	printf("방어력      | %d (+%d) \n", GarenFirstGuard, GarenGrowGuard);
+	printf("마법 저항력 | %d (+%d) \n\n", GarenFirstMagicGuard, GarenGrowMagicGurad);
 
 	// 이 정보를 컴퓨터가 내가 원하는 결과값으로 실행을 했나요?
 	// 네.
 	// (만족) vs (조금 더 해야한다)
 
 	// 5레벨일 경우 가렌의 정보는 어떻게 되나요
+
+	printf("가렌의 5레벨 정보 \n");
+	printf("현재 체력        | %f \n", GarenFirstLevelHP + (level - 1) * GarenGrowthHP);
+	printf("현재 마나        | 0 \n");
+	printf("현재 공격력      | %d \n", GarenFirstPower + (level - 1) * GarenGrowPower);
+	printf("현재 방어력      | %d \n", GarenFirstGuard + (level - 1) * GarenGrowGuard);
+	printf("현재 마법 저항력 | %d \n", GarenFirstMagicGuard + (level - 1) * GarenGrowMagicGurad);
 
 	// 다른 챔피언으로도 위의 방식으로 정보를 표현해보세요.
 
@@ -71,5 +78,6 @@ int main()
 
 	// 분석해보고 싶은 게임의 정보를 하나 가져옵니다. : 아이작
 	// 체력을 숫자표현이 아닌 이미지로 표현하고 소수로 표현, (돈, 폭탄, 열쇠)는 정수로 표현
+	// 능력치는 표시되지 
 	// 수식 표현
 }
