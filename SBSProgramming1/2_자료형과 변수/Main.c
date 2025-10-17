@@ -32,7 +32,9 @@ int main()
 	// 챔피언이 가지고 있는 스탯을 출력하고 싶다.
 	printf("AD : 10 \n");
 	///////////////////////////////////////////
-	int level = 18;
+	
+	//가렌의 레벨
+    int level = 5;
 
 	// 가렌의 체력
 	int GarenFirstLevelHP = 690;
