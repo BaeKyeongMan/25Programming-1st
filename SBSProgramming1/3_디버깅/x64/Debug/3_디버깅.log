@@ -1,10 +1,14 @@
 ﻿  main.c
-C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\3_디버깅\main.c(50,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-      C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\3_디버깅\main.c(50,9):
+C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(57,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+      C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(57,9):
       서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
-      C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\3_디버깅\main.c(50,9):
+      C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(57,9):
       서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
-      C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\3_디버깅\main.c(50,9):
+      C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(57,9):
       서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
   
-  3_디버깅.vcxproj -> C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\x64\Debug\3_디버깅.exe
+C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(96,12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(112,14): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\3_디버깅\main.c(121,6): warning C4013: 'usleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+main.obj : error LNK2019: usleepmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\배경만\Documents\GitHub\25Programming-1st\SBSProgramming1\x64\Debug\3_디버깅.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

@@ -71,15 +71,46 @@ int main()
 	printf("현재 마나        | 0 \n");
 	printf("현재 공격력      | %d \n", GarenFirstPower + (level - 1) * GarenGrowPower);
 	printf("현재 방어력      | %d \n", GarenFirstGuard + (level - 1) * GarenGrowGuard);
-	printf("현재 마법 저항력 | %d \n", GarenFirstMagicGuard + (level - 1) * GarenGrowMagicGurad);
+	printf("현재 마법 저항력 | %d \n\n", GarenFirstMagicGuard + (level - 1) * GarenGrowMagicGurad);
 
 	// 다른 챔피언으로도 위의 방식으로 정보를 표현해보세요.
+
+	// 레벨
+	int Rakanlevel = 1;
+
+	// 체력
+	int RakanFirstHp = 610;
+	int RakanGrowHp = 99;
+
+	// 마나
+	int RakanFirstMana = 315;
+	int RakanGrowMana = 50;
+
+    // 공격력
+	int RakanFirstPower = 62;
+	int RakanGrowPower = 3;
+
+	// 방어력
+	int RakanFirstGuard = 30;
+	int RakanGrowGuard = 4;
+
+	// 마법 저항력
+	int RakanFirstMagicGuard = 32;
+	int RakanGrowMagicGuard = 2;
+
+
+	printf("라칸의 %d레벨 능력치\n", Rakanlevel);
+	printf("현재 체력       | %d\n", RakanFirstHp + (Rakanlevel - 1 ) * RakanGrowHp);
+	printf("현재 마나       | %d\n", RakanFirstMana + (Rakanlevel - 1 ) * RakanGrowMana);
+	printf("현재 공격력     | %d\n", RakanFirstPower + (Rakanlevel -1 ) * RakanGrowPower);
+	printf("현재 방어력     | %d\n", RakanFirstGuard + (Rakanlevel -1 ) * RakanGrowGuard);
+	printf("현재 마법 저항력| %d\n", RakanFirstMagicGuard + (Rakanlevel -1 ) * RakanGrowMagicGuard);
 
 
 
 
 	// 분석해보고 싶은 게임의 정보를 하나 가져옵니다. : 아이작
 	// 체력을 숫자표현이 아닌 이미지로 표현하고 소수로 표현, (돈, 폭탄, 열쇠)는 정수로 표현
-	// 능력치는 표시되지 
+	// 능력치는 실수로 표현되어 있고 추가%는 곱연산인지 합연산인지 
 	// 수식 표현
 }
